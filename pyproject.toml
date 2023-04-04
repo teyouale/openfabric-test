@@ -2,7 +2,7 @@
 name = "openfabric-test"
 version = "1.1"
 description = "cognitive-assistant"
-authors = ["Andrei"]
+authors = ["Eyouale"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
