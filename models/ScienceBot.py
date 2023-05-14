@@ -28,4 +28,4 @@ def generate_answer(request):
     request = create_representation(preprocess(request), all_words)
     predicted_answer = model.predict([request])[0]
     return predicted_answer
-print(generate_answer("What are the two most common silicates?"))
+
